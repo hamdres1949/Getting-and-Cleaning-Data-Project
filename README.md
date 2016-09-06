@@ -1,6 +1,6 @@
 #Getting-and-Cleaning-Data-Project
 This is my project for Coursera's "Getting and Cleaning Data," part of the Data Science specialization. The project consists of the tidy data, the R script, and the Code Book.
-The R script, *`run_analysis.R`, functions as follows:
+The R script, `run_analysis.R`, functions as follows:
 
   1) It changes the working directory to where the folder containing the data is located. This assumes that you've already downloaded and unziped the data.
   
